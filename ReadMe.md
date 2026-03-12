@@ -81,7 +81,7 @@ const ishtikhar = {
 | 🖥️ **Interactive Web Portfolio** | HTML5, CSS3, JS, Tailwind CSS | [View →](https://github.com/imraan011) |
 | ✅ **Task Management Dashboard** | JS, CSS Grid, LocalStorage API | [View →](https://github.com/imraan011) |
 | 🛒 **E-Commerce Landing Page** | React.js, Tailwind CSS | [View →](https://github.com/imraan011) |
-| Section Under Devlopmentn|
+| Section Under Development |
 </div>
 
 ---
