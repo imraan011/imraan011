@@ -21,7 +21,7 @@ I build web applications end to end — from interaction design to backend logic
 
 Currently sharpening data structures & algorithms daily, and moving from "following a tutorial's architecture" to designing systems from scratch.
 
-- 🎓 B.Tech Computer Science, AKTU — CGPA 7.55
+- 🎓 B.Tech Computer Science, AKTU
 - 🧩 210+ problems solved on LeetCode
 - 🛠️ Trained in full-stack development at Sheryians Coding School
 - 📍 India
